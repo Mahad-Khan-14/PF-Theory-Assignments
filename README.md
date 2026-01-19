@@ -1,8 +1,8 @@
-- PF-Theory-24k-0961
-- Assignment No. 1
-- Assignment No. 2
-- Assignment No. 3
-- My name is M.Mahad Khan
-- Roll # 24k-0961
-   + I am a student of BS in Computer Science at Fast University.
-  * I am from Section C (BS-CS) .
+## PF-Theory-Assignments
+
+#### A repo for All Assignments of PF Theory
+
+
+- M.Mahad Khan
++ I am a student of BS in Computer Science at Fast University.
+* I am from Section C (BS-CS) .
